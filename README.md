@@ -10,26 +10,26 @@ Ideally we'll hand this repository over to the FSF once they're ready to maintai
 ## Endpoints
 
 <a name="licenses.json"></a>
-You can pull an array of identifiers from [https://spdx.github.io/fsf-api/licenses.json](https://spdx.github.io/fsf-api/licenses.json).
+You can pull an array of identifiers from [https://megver83.github.io/fsf-api/licenses.json](https://megver83.github.io/fsf-api/licenses.json).
 
 <a name="licenses-full.json"></a>
-You can pull an object with all the license data [https://spdx.github.io/fsf-api/licenses-full.json](https://spdx.github.io/fsf-api/licenses-full.json).
+You can pull an object with all the license data [https://megver83.github.io/fsf-api/licenses-full.json](https://megver83.github.io/fsf-api/licenses-full.json).
 
 You can pull an individual license from a few places:
 
 * <a name="by-fsf-id"></a>
     Using their FSF ID:
 
-        https://spdx.github.io/fsf-api/{id}.json
+        https://megver83.github.io/fsf-api/{id}.json
 
-    For example [https://spdx.github.io/fsf-api/Expat.json](https://spdx.github.io/fsf-api/Expat.json).
+    For example [https://megver83.github.io/fsf-api/Expat.json](https://megver83.github.io/fsf-api/Expat.json).
 
 * <a name="by-non-fsf-id"></a>
     Using a non-FSF ID, according to the mapping between other scheme and the FSF scheme asserted by this API:
 
-        https://spdx.github.io/fsf-api/{scheme}/{id}.json
+        https://megver83.github.io/fsf-api/{scheme}/{id}.json
 
-    For example [https://spdx.github.io/fsf-api/spdx/MIT.json](https://spdx.github.io/fsf-api/spdx/MIT.json).
+    For example [https://megver83.github.io/fsf-api/megver83/MIT.json](https://megver83.github.io/fsf-api/megver83/MIT.json).
     This API currently [attempts](#caveats) to maintain the following mappings:
 
     * `spdx`, using [the SPDX identifiers][spdx-list].
