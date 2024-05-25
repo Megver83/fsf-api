@@ -1,0 +1,17 @@
+{
+  "@context": "https://spdx.github.io/fsf-api/schema/license.jsonld",
+  "id": "SISSL",
+  "identifiers": {
+    "spdx": [
+      "SISSL"
+    ]
+  },
+  "name": "Sun Industry Standards Source License 1.1",
+  "tags": [
+    "libre"
+  ],
+  "uris": [
+    "https://www.gnu.org/licenses/license-list.html#SISSL",
+    "https://directory.fsf.org/wiki/License:SISSL-1.1"
+  ]
+}

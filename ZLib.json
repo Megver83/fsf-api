@@ -1,0 +1,20 @@
+{
+  "@context": "https://spdx.github.io/fsf-api/schema/license.jsonld",
+  "id": "ZLib",
+  "identifiers": {
+    "spdx": [
+      "Zlib",
+      "Nunit"
+    ]
+  },
+  "name": "License of ZLib",
+  "tags": [
+    "gpl-2-compatible",
+    "gpl-3-compatible",
+    "libre"
+  ],
+  "uris": [
+    "https://www.gnu.org/licenses/license-list.html#ZLib",
+    "https://directory.fsf.org/wiki/License:Zlib"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "@context": "https://spdx.github.io/fsf-api/schema/license.jsonld",
+  "id": "gnuplot",
+  "identifiers": {
+    "spdx": [
+      "gnuplot"
+    ]
+  },
+  "name": "Gnuplot license",
+  "tags": [
+    "libre"
+  ],
+  "uris": [
+    "https://www.gnu.org/licenses/license-list.html#gnuplot",
+    "https://directory.fsf.org/wiki/License:Gnuplot"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "@context": "https://spdx.github.io/fsf-api/schema/license.jsonld",
+  "id": "hippocratic",
+  "name": "The Hippocratic License 1.1",
+  "tags": [
+    "non-free"
+  ],
+  "uris": [
+    "https://www.gnu.org/licenses/license-list.html#hippocratic",
+    "https://directory.fsf.org/wiki/License:THL-1.1"
+  ]
+}

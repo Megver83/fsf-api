@@ -1,0 +1,24 @@
+{
+  "@context": "https://spdx.github.io/fsf-api/schema/license.jsonld",
+  "id": "FreeBSD",
+  "identifiers": {
+    "spdx": [
+      "BSD-2-Clause-FreeBSD",
+      "BSD-2-Clause",
+      "BSD-2-Clause-NetBSD"
+    ]
+  },
+  "name": "FreeBSD license",
+  "tags": [
+    "fdl-compatible",
+    "gpl-2-compatible",
+    "gpl-3-compatible",
+    "libre"
+  ],
+  "uris": [
+    "https://www.gnu.org/licenses/license-list.html#FreeBSD",
+    "https://directory.fsf.org/wiki?title=License:FreeBSD",
+    "https://www.gnu.org/licenses/license-list.html#FreeBSDDL",
+    "https://directory.fsf.org/wiki?title=License:FreeBSD-DL"
+  ]
+}

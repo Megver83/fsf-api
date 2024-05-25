@@ -1,0 +1,19 @@
+{
+  "@context": "https://spdx.github.io/fsf-api/schema/license.jsonld",
+  "id": "CC0",
+  "identifiers": {
+    "spdx": [
+      "CC0-1.0"
+    ]
+  },
+  "name": "CC0 1.0 Universal",
+  "tags": [
+    "gpl-2-compatible",
+    "gpl-3-compatible",
+    "libre"
+  ],
+  "uris": [
+    "https://www.gnu.org/licenses/license-list.html#CC0",
+    "https://creativecommons.org/publicdomain/zero/1.0/"
+  ]
+}

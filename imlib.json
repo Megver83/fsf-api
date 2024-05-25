@@ -1,0 +1,19 @@
+{
+  "@context": "https://spdx.github.io/fsf-api/schema/license.jsonld",
+  "id": "imlib",
+  "identifiers": {
+    "spdx": [
+      "Imlib2"
+    ]
+  },
+  "name": "License of imlib2",
+  "tags": [
+    "gpl-2-compatible",
+    "gpl-3-compatible",
+    "libre"
+  ],
+  "uris": [
+    "https://www.gnu.org/licenses/license-list.html#imlib",
+    "https://directory.fsf.org/wiki/License:Imlib2"
+  ]
+}

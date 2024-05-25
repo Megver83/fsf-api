@@ -1,0 +1,14 @@
+{
+  "@context": "https://spdx.github.io/fsf-api/schema/license.jsonld",
+  "id": "CryptixGeneralLicense",
+  "name": "Cryptix General License",
+  "tags": [
+    "gpl-2-compatible",
+    "gpl-3-compatible",
+    "libre"
+  ],
+  "uris": [
+    "https://www.gnu.org/licenses/license-list.html#CryptixGeneralLicense",
+    "https://directory.fsf.org/wiki/License:CryptixGL"
+  ]
+}

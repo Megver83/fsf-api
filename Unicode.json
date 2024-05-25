@@ -1,0 +1,14 @@
+{
+  "@context": "https://spdx.github.io/fsf-api/schema/license.jsonld",
+  "id": "Unicode",
+  "name": "Unicode, Inc. License Agreement for Data Files and Software",
+  "tags": [
+    "gpl-2-compatible",
+    "gpl-3-compatible",
+    "libre"
+  ],
+  "uris": [
+    "https://www.gnu.org/licenses/license-list.html#Unicode",
+    "https://directory.fsf.org/wiki/License:Unicode"
+  ]
+}

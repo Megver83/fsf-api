@@ -1,0 +1,17 @@
+{
+  "@context": "https://spdx.github.io/fsf-api/schema/license.jsonld",
+  "id": "xinetd",
+  "identifiers": {
+    "spdx": [
+      "xinetd"
+    ]
+  },
+  "name": "License of xinetd",
+  "tags": [
+    "libre"
+  ],
+  "uris": [
+    "https://www.gnu.org/licenses/license-list.html#xinetd",
+    "https://directory.fsf.org/wiki/License:Xinetd"
+  ]
+}

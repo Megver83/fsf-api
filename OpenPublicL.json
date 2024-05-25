@@ -1,0 +1,17 @@
+{
+  "@context": "https://spdx.github.io/fsf-api/schema/license.jsonld",
+  "id": "OpenPublicL",
+  "identifiers": {
+    "spdx": [
+      "OPL-1.0"
+    ]
+  },
+  "name": "Open Public License",
+  "tags": [
+    "non-free"
+  ],
+  "uris": [
+    "https://www.gnu.org/licenses/license-list.html#OpenPublicL",
+    "https://directory.fsf.org/wiki/License:OpenPLv1.0"
+  ]
+}

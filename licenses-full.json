@@ -1,0 +1,2699 @@
+{
+  "@context": "https://spdx.github.io/fsf-api/schema/licenses.jsonld",
+  "licenses": {
+    "ACDL": {
+      "id": "ACDL",
+      "name": "Apple's Common Documentation License, Version 1.0",
+      "tags": [
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#ACDL",
+        "https://directory.fsf.org/wiki/License:ACDL-1.0"
+      ]
+    },
+    "AGPLv1.0": {
+      "id": "AGPLv1.0",
+      "identifiers": {
+        "spdx": [
+          "AGPL-1.0-or-later",
+          "AGPL-1.0-only",
+          "AGPL-1.0"
+        ]
+      },
+      "name": "Affero General Public License version 1",
+      "tags": [
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#AGPLv1.0",
+        "https://directory.fsf.org/wiki/License:AGPLv1"
+      ]
+    },
+    "AGPLv3.0": {
+      "id": "AGPLv3.0",
+      "identifiers": {
+        "spdx": [
+          "AGPL-3.0-or-later",
+          "AGPL-3.0-only",
+          "AGPL-3.0"
+        ]
+      },
+      "name": "GNU Affero General Public License (AGPL) version 3",
+      "tags": [
+        "gpl-3-compatible",
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#AGPLv3.0",
+        "https://www.gnu.org/licenses/agpl.html"
+      ]
+    },
+    "ATTPublicLicense": {
+      "id": "ATTPublicLicense",
+      "name": "AT&T Public License",
+      "tags": [
+        "non-free"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#ATTPublicLicense"
+      ]
+    },
+    "AcademicFreeLicense1.1": {
+      "id": "AcademicFreeLicense1.1",
+      "identifiers": {
+        "spdx": [
+          "AFL-1.1"
+        ]
+      },
+      "name": "Academic Free License, all versions through 3.0",
+      "tags": [
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#AcademicFreeLicense",
+        "https://directory.fsf.org/wiki/License:AFLv3"
+      ]
+    },
+    "AcademicFreeLicense1.2": {
+      "id": "AcademicFreeLicense1.2",
+      "identifiers": {
+        "spdx": [
+          "AFL-1.2"
+        ]
+      },
+      "name": "Academic Free License, all versions through 3.0",
+      "tags": [
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#AcademicFreeLicense",
+        "https://directory.fsf.org/wiki/License:AFLv3"
+      ]
+    },
+    "AcademicFreeLicense2.0": {
+      "id": "AcademicFreeLicense2.0",
+      "identifiers": {
+        "spdx": [
+          "AFL-2.0"
+        ]
+      },
+      "name": "Academic Free License, all versions through 3.0",
+      "tags": [
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#AcademicFreeLicense",
+        "https://directory.fsf.org/wiki/License:AFLv3"
+      ]
+    },
+    "AcademicFreeLicense2.1": {
+      "id": "AcademicFreeLicense2.1",
+      "identifiers": {
+        "spdx": [
+          "AFL-2.1"
+        ]
+      },
+      "name": "Academic Free License, all versions through 3.0",
+      "tags": [
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#AcademicFreeLicense",
+        "https://directory.fsf.org/wiki/License:AFLv3"
+      ]
+    },
+    "AcademicFreeLicense3.0": {
+      "id": "AcademicFreeLicense3.0",
+      "identifiers": {
+        "spdx": [
+          "AFL-3.0"
+        ]
+      },
+      "name": "Academic Free License, all versions through 3.0",
+      "tags": [
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#AcademicFreeLicense",
+        "https://directory.fsf.org/wiki/License:AFLv3"
+      ]
+    },
+    "Aladdin": {
+      "id": "Aladdin",
+      "identifiers": {
+        "spdx": [
+          "Aladdin"
+        ]
+      },
+      "name": "Aladdin Free Public License",
+      "tags": [
+        "non-free"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#Aladdin",
+        "https://directory.fsf.org/wiki/License:Aladdin"
+      ]
+    },
+    "Anti-996": {
+      "id": "Anti-996",
+      "name": "Anti-996 License",
+      "tags": [
+        "non-free"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#Anti-996",
+        "https://directory.fsf.org/wiki/License:996"
+      ]
+    },
+    "Arphic": {
+      "id": "Arphic",
+      "name": "Arphic Public License",
+      "tags": [
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#Arphic",
+        "http://ftp.gnu.org/gnu/non-gnu/chinese-fonts-truetype/LICENSE"
+      ]
+    },
+    "ArtisticLicense": {
+      "id": "ArtisticLicense",
+      "identifiers": {
+        "spdx": [
+          "Artistic-1.0"
+        ]
+      },
+      "name": "Artistic License 1.0",
+      "tags": [
+        "non-free"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#ArtisticLicense",
+        "https://directory.fsf.org/wiki/License:Artistic_v1.0"
+      ]
+    },
+    "ArtisticLicense2": {
+      "id": "ArtisticLicense2",
+      "identifiers": {
+        "spdx": [
+          "Artistic-2.0"
+        ]
+      },
+      "name": "Artistic License 2.0",
+      "tags": [
+        "gpl-2-compatible",
+        "gpl-3-compatible",
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#ArtisticLicense2",
+        "https://directory.fsf.org/wiki/License:ArtisticLicense2.0"
+      ]
+    },
+    "BerkeleyDB": {
+      "id": "BerkeleyDB",
+      "identifiers": {
+        "spdx": [
+          "Sleepycat"
+        ]
+      },
+      "name": "Berkeley Database License",
+      "tags": [
+        "gpl-2-compatible",
+        "gpl-3-compatible",
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#BerkeleyDB",
+        "https://directory.fsf.org/wiki/License:Sleepycat"
+      ]
+    },
+    "CC-BY-NC-1.0": {
+      "id": "CC-BY-NC-1.0",
+      "identifiers": {
+        "spdx": [
+          "CC-BY-NC-1.0"
+        ]
+      },
+      "name": "Creative Commons NonCommercial, any version",
+      "tags": [
+        "non-free"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#CC-BY-NC",
+        "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+      ]
+    },
+    "CC-BY-NC-2.0": {
+      "id": "CC-BY-NC-2.0",
+      "identifiers": {
+        "spdx": [
+          "CC-BY-NC-2.0"
+        ]
+      },
+      "name": "Creative Commons NonCommercial, any version",
+      "tags": [
+        "non-free"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#CC-BY-NC",
+        "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+      ]
+    },
+    "CC-BY-NC-2.5": {
+      "id": "CC-BY-NC-2.5",
+      "identifiers": {
+        "spdx": [
+          "CC-BY-NC-2.5"
+        ]
+      },
+      "name": "Creative Commons NonCommercial, any version",
+      "tags": [
+        "non-free"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#CC-BY-NC",
+        "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+      ]
+    },
+    "CC-BY-NC-3.0": {
+      "id": "CC-BY-NC-3.0",
+      "identifiers": {
+        "spdx": [
+          "CC-BY-NC-3.0"
+        ]
+      },
+      "name": "Creative Commons NonCommercial, any version",
+      "tags": [
+        "non-free"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#CC-BY-NC",
+        "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+      ]
+    },
+    "CC-BY-NC-4.0": {
+      "id": "CC-BY-NC-4.0",
+      "identifiers": {
+        "spdx": [
+          "CC-BY-NC-4.0"
+        ]
+      },
+      "name": "Creative Commons NonCommercial, any version",
+      "tags": [
+        "non-free"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#CC-BY-NC",
+        "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+      ]
+    },
+    "CC-BY-ND-1.0": {
+      "id": "CC-BY-ND-1.0",
+      "identifiers": {
+        "spdx": [
+          "CC-BY-ND-1.0"
+        ]
+      },
+      "name": "Creative Commons Noderivatives, any version",
+      "tags": [
+        "non-free"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#CC-BY-ND",
+        "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+      ]
+    },
+    "CC-BY-ND-2.0": {
+      "id": "CC-BY-ND-2.0",
+      "identifiers": {
+        "spdx": [
+          "CC-BY-ND-2.0"
+        ]
+      },
+      "name": "Creative Commons Noderivatives, any version",
+      "tags": [
+        "non-free"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#CC-BY-ND",
+        "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+      ]
+    },
+    "CC-BY-ND-2.5": {
+      "id": "CC-BY-ND-2.5",
+      "identifiers": {
+        "spdx": [
+          "CC-BY-ND-2.5"
+        ]
+      },
+      "name": "Creative Commons Noderivatives, any version",
+      "tags": [
+        "non-free"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#CC-BY-ND",
+        "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+      ]
+    },
+    "CC-BY-ND-3.0": {
+      "id": "CC-BY-ND-3.0",
+      "identifiers": {
+        "spdx": [
+          "CC-BY-ND-3.0"
+        ]
+      },
+      "name": "Creative Commons Noderivatives, any version",
+      "tags": [
+        "non-free"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#CC-BY-ND",
+        "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+      ]
+    },
+    "CC-BY-ND-4.0": {
+      "id": "CC-BY-ND-4.0",
+      "identifiers": {
+        "spdx": [
+          "CC-BY-ND-4.0"
+        ]
+      },
+      "name": "Creative Commons Noderivatives, any version",
+      "tags": [
+        "non-free",
+        "viewpoint"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#CC-BY-ND",
+        "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "https://www.gnu.org/licenses/license-list.html#ccbynd",
+        "https://creativecommons.org/licenses/by-nd/4.0/legalcode"
+      ]
+    },
+    "CC0": {
+      "id": "CC0",
+      "identifiers": {
+        "spdx": [
+          "CC0-1.0"
+        ]
+      },
+      "name": "CC0 1.0 Universal",
+      "tags": [
+        "gpl-2-compatible",
+        "gpl-3-compatible",
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#CC0",
+        "https://creativecommons.org/publicdomain/zero/1.0/"
+      ]
+    },
+    "CDDL": {
+      "id": "CDDL",
+      "identifiers": {
+        "spdx": [
+          "CDDL-1.0"
+        ]
+      },
+      "name": "Common Development and Distribution License (CDDL), version 1.0",
+      "tags": [
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#CDDL",
+        "https://directory.fsf.org/wiki/License:CDDLv1.0"
+      ]
+    },
+    "CPAL": {
+      "id": "CPAL",
+      "identifiers": {
+        "spdx": [
+          "CPAL-1.0"
+        ]
+      },
+      "name": "Common Public Attribution License 1.0 (CPAL)",
+      "tags": [
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#CPAL",
+        "https://directory.fsf.org/wiki/License:Common_Public_Attribution_License_Version_1.0"
+      ]
+    },
+    "CeCILL": {
+      "id": "CeCILL",
+      "identifiers": {
+        "spdx": [
+          "CECILL-2.0"
+        ]
+      },
+      "name": "CeCILL version 2",
+      "tags": [
+        "gpl-2-compatible",
+        "gpl-3-compatible",
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#CeCILL",
+        "https://directory.fsf.org/wiki/License:CeCILLv2"
+      ]
+    },
+    "CeCILL-B": {
+      "id": "CeCILL-B",
+      "identifiers": {
+        "spdx": [
+          "CECILL-B"
+        ]
+      },
+      "name": "CeCILL-B version 1",
+      "tags": [
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#CeCILL-B",
+        "https://spdx.org/licenses/CECILL-B"
+      ]
+    },
+    "CeCILL-C": {
+      "id": "CeCILL-C",
+      "identifiers": {
+        "spdx": [
+          "CECILL-C"
+        ]
+      },
+      "name": "CeCILL-C version 1",
+      "tags": [
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#CeCILL-C",
+        "https://spdx.org/licenses/CECILL-C"
+      ]
+    },
+    "ClarifiedArtistic": {
+      "id": "ClarifiedArtistic",
+      "identifiers": {
+        "spdx": [
+          "ClArtistic"
+        ]
+      },
+      "name": "Clarified Artistic License",
+      "tags": [
+        "gpl-2-compatible",
+        "gpl-3-compatible",
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#ClarifiedArtistic",
+        "https://directory.fsf.org/wiki/License:Clarified_Artistic_License_1.0"
+      ]
+    },
+    "CommonPublicLicense10": {
+      "id": "CommonPublicLicense10",
+      "identifiers": {
+        "spdx": [
+          "CPL-1.0"
+        ]
+      },
+      "name": "Common Public License Version 1.0",
+      "tags": [
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#CommonPublicLicense10",
+        "https://directory.fsf.org/wiki/License:CPLv1.0"
+      ]
+    },
+    "Condor": {
+      "id": "Condor",
+      "identifiers": {
+        "spdx": [
+          "Condor-1.1"
+        ]
+      },
+      "name": "Condor Public License",
+      "tags": [
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#Condor",
+        "https://directory.fsf.org/wiki?title=License:Condor1.1"
+      ]
+    },
+    "CryptixGeneralLicense": {
+      "id": "CryptixGeneralLicense",
+      "name": "Cryptix General License",
+      "tags": [
+        "gpl-2-compatible",
+        "gpl-3-compatible",
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#CryptixGeneralLicense",
+        "https://directory.fsf.org/wiki/License:CryptixGL"
+      ]
+    },
+    "DOR": {
+      "id": "DOR",
+      "name": "CNRI Digital Object Repository License Agreement",
+      "tags": [
+        "non-free"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#DOR",
+        "https://directory.fsf.org/wiki/License:CNRI"
+      ]
+    },
+    "ECL2.0": {
+      "id": "ECL2.0",
+      "identifiers": {
+        "spdx": [
+          "ECL-2.0"
+        ]
+      },
+      "name": "Educational Community License 2.0",
+      "tags": [
+        "gpl-3-compatible",
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#ECL2.0",
+        "https://directory.fsf.org/wiki/License:ECL2.0"
+      ]
+    },
+    "EPL": {
+      "id": "EPL",
+      "identifiers": {
+        "spdx": [
+          "EPL-1.0"
+        ]
+      },
+      "name": "Eclipse Public License Version 1.0",
+      "tags": [
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#EPL",
+        "https://directory.fsf.org/wiki/License:EPLv1.0"
+      ]
+    },
+    "EPL2": {
+      "id": "EPL2",
+      "identifiers": {
+        "spdx": [
+          "EPL-2.0"
+        ]
+      },
+      "name": "Eclipse Public License Version 2.0",
+      "tags": [
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#EPL2",
+        "https://directory.fsf.org/wiki/License:EPL-2.0"
+      ]
+    },
+    "EUDataGrid": {
+      "id": "EUDataGrid",
+      "identifiers": {
+        "spdx": [
+          "EUDatagrid"
+        ]
+      },
+      "name": "EU DataGrid Software License",
+      "tags": [
+        "gpl-2-compatible",
+        "gpl-3-compatible",
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#EUDataGrid",
+        "https://directory.fsf.org/wiki/License:EUDataGrid"
+      ]
+    },
+    "EUPL-1.1": {
+      "id": "EUPL-1.1",
+      "identifiers": {
+        "spdx": [
+          "EUPL-1.1"
+        ]
+      },
+      "name": "European Union Public License (EUPL) version 1.1",
+      "tags": [
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#EUPL-1.1",
+        "https://directory.fsf.org/wiki/License:EUPLv1.1"
+      ]
+    },
+    "EUPL-1.2": {
+      "id": "EUPL-1.2",
+      "identifiers": {
+        "spdx": [
+          "EUPL-1.2"
+        ]
+      },
+      "name": "European Union Public License (EUPL) version 1.2",
+      "tags": [
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#EUPL-1.2",
+        "https://directory.fsf.org/wiki/License:EUPLv1.2"
+      ]
+    },
+    "Eiffel": {
+      "id": "Eiffel",
+      "identifiers": {
+        "spdx": [
+          "EFL-2.0"
+        ]
+      },
+      "name": "Eiffel Forum License, version 2",
+      "tags": [
+        "gpl-2-compatible",
+        "gpl-3-compatible",
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#Eiffel",
+        "https://directory.fsf.org/wiki/License:EFLv2"
+      ]
+    },
+    "Expat": {
+      "id": "Expat",
+      "identifiers": {
+        "spdx": [
+          "MIT"
+        ]
+      },
+      "name": "Expat License",
+      "tags": [
+        "gpl-2-compatible",
+        "gpl-3-compatible",
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#Expat",
+        "https://directory.fsf.org/wiki/License:Expat"
+      ]
+    },
+    "FDLv1.1": {
+      "id": "FDLv1.1",
+      "identifiers": {
+        "spdx": [
+          "GFDL-1.1-or-later",
+          "GFDL-1.1-only",
+          "GFDL-1.1"
+        ]
+      },
+      "name": "GNU Free Documentation License",
+      "tags": [
+        "fdl-compatible",
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#FDL",
+        "https://www.gnu.org/licenses/fdl.html",
+        "https://www.gnu.org/licenses/license-list.html#FDLOther"
+      ]
+    },
+    "FDLv1.2": {
+      "id": "FDLv1.2",
+      "identifiers": {
+        "spdx": [
+          "GFDL-1.2-or-later",
+          "GFDL-1.2-only",
+          "GFDL-1.2"
+        ]
+      },
+      "name": "GNU Free Documentation License",
+      "tags": [
+        "fdl-compatible",
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#FDL",
+        "https://www.gnu.org/licenses/fdl.html",
+        "https://www.gnu.org/licenses/license-list.html#FDLOther"
+      ]
+    },
+    "FDLv1.3": {
+      "id": "FDLv1.3",
+      "identifiers": {
+        "spdx": [
+          "GFDL-1.3-or-later",
+          "GFDL-1.3-only",
+          "GFDL-1.3"
+        ]
+      },
+      "name": "GNU Free Documentation License",
+      "tags": [
+        "fdl-compatible",
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#FDL",
+        "https://www.gnu.org/licenses/fdl.html",
+        "https://www.gnu.org/licenses/license-list.html#FDLOther"
+      ]
+    },
+    "FreeArt": {
+      "id": "FreeArt",
+      "name": "Free Art License",
+      "tags": [
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#FreeArt",
+        "https://directory.fsf.org/wiki/License:Free-Art-L-v1.3"
+      ]
+    },
+    "FreeBSD": {
+      "id": "FreeBSD",
+      "identifiers": {
+        "spdx": [
+          "BSD-2-Clause-FreeBSD",
+          "BSD-2-Clause",
+          "BSD-2-Clause-NetBSD"
+        ]
+      },
+      "name": "FreeBSD license",
+      "tags": [
+        "fdl-compatible",
+        "gpl-2-compatible",
+        "gpl-3-compatible",
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#FreeBSD",
+        "https://directory.fsf.org/wiki?title=License:FreeBSD",
+        "https://www.gnu.org/licenses/license-list.html#FreeBSDDL",
+        "https://directory.fsf.org/wiki?title=License:FreeBSD-DL"
+      ]
+    },
+    "GNUAllPermissive": {
+      "id": "GNUAllPermissive",
+      "identifiers": {
+        "spdx": [
+          "FSFAP"
+        ]
+      },
+      "name": "GNU All-Permissive License",
+      "tags": [
+        "gpl-2-compatible",
+        "gpl-3-compatible",
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#GNUAllPermissive",
+        "https://www.gnu.org/prep/maintain/html_node/License-Notices-for-Other-Files.html"
+      ]
+    },
+    "GNUGPLv3": {
+      "id": "GNUGPLv3",
+      "identifiers": {
+        "spdx": [
+          "GPL-3.0-or-later",
+          "GPL-3.0-only",
+          "GPL-3.0",
+          "GPL-3.0+"
+        ]
+      },
+      "name": "GNU General Public License (GPL) version 3",
+      "tags": [
+        "gpl-3-compatible",
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#GNUGPLv3",
+        "https://www.gnu.org/licenses/gpl.html"
+      ]
+    },
+    "GNUVerbatim": {
+      "id": "GNUVerbatim",
+      "name": "GNU Verbatim Copying License",
+      "tags": [
+        "viewpoint"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#GNUVerbatim",
+        "https://www.gnu.org/licenses/licenses.html#VerbatimCopying"
+      ]
+    },
+    "GPL-PA": {
+      "id": "GPL-PA",
+      "name": "GPL for Computer Programs of the Public Administration",
+      "tags": [
+        "non-free"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#GPL-PA",
+        "https://directory.fsf.org/wiki/License:GPL-PA"
+      ]
+    },
+    "GPLFonts": {
+      "id": "GPLFonts",
+      "name": "GNU General Public License",
+      "tags": [
+        "gpl-2-compatible",
+        "gpl-3-compatible",
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#GPLFonts",
+        "https://www.gnu.org/licenses/gpl.html"
+      ]
+    },
+    "GPLOther": {
+      "id": "GPLOther",
+      "name": "GNU General Public License",
+      "tags": [
+        "gpl-2-compatible",
+        "gpl-3-compatible",
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#GPLOther",
+        "https://www.gnu.org/licenses/gpl.html"
+      ]
+    },
+    "GPLv2": {
+      "id": "GPLv2",
+      "identifiers": {
+        "spdx": [
+          "GPL-2.0-or-later",
+          "GPL-2.0-only",
+          "GPL-2.0",
+          "GPL-2.0+"
+        ]
+      },
+      "name": "GNU General Public License (GPL) version 2",
+      "tags": [
+        "gpl-2-compatible",
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#GPLv2",
+        "https://www.gnu.org/licenses/old-licenses/gpl-2.0.html"
+      ]
+    },
+    "HESSLA": {
+      "id": "HESSLA",
+      "name": "Hacktivismo Enhanced-Source Software License Agreement",
+      "tags": [
+        "non-free"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#HESSLA",
+        "https://directory.fsf.org/wiki/License:HESSLA"
+      ]
+    },
+    "HPND": {
+      "id": "HPND",
+      "identifiers": {
+        "spdx": [
+          "HPND"
+        ]
+      },
+      "name": "Historical Permission Notice and Disclaimer",
+      "tags": [
+        "gpl-2-compatible",
+        "gpl-3-compatible",
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#HPND",
+        "https://directory.fsf.org/wiki/License:Historical_Permission_Notice_and_Disclaimer"
+      ]
+    },
+    "IBMPL": {
+      "id": "IBMPL",
+      "identifiers": {
+        "spdx": [
+          "IPL-1.0"
+        ]
+      },
+      "name": "IBM Public License, Version 1.0",
+      "tags": [
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#IBMPL",
+        "https://directory.fsf.org/wiki/License:IBMPLv1.0"
+      ]
+    },
+    "IPAFONT": {
+      "id": "IPAFONT",
+      "identifiers": {
+        "spdx": [
+          "IPA"
+        ]
+      },
+      "name": "IPA\n    Font License",
+      "tags": [
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#IPAFONT",
+        "https://directory.fsf.org/wiki/License:IPA_Font_License"
+      ]
+    },
+    "ISC": {
+      "id": "ISC",
+      "identifiers": {
+        "spdx": [
+          "ISC"
+        ]
+      },
+      "name": "ISC License",
+      "tags": [
+        "gpl-2-compatible",
+        "gpl-3-compatible",
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#ISC",
+        "https://directory.fsf.org/wiki/License:ISC"
+      ]
+    },
+    "JSON": {
+      "id": "JSON",
+      "identifiers": {
+        "spdx": [
+          "JSON"
+        ]
+      },
+      "name": "The JSON License",
+      "tags": [
+        "non-free"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#JSON",
+        "https://directory.fsf.org/wiki/License:JSON"
+      ]
+    },
+    "Jahia": {
+      "id": "Jahia",
+      "name": "Jahia Community Source License",
+      "tags": [
+        "non-free"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#Jahia",
+        "https://directory.fsf.org/wiki/License:JahiaCSL"
+      ]
+    },
+    "LGPLv2.1": {
+      "id": "LGPLv2.1",
+      "identifiers": {
+        "spdx": [
+          "LGPL-2.1-or-later",
+          "LGPL-2.1-only",
+          "LGPL-2.1",
+          "LGPL-2.1+"
+        ]
+      },
+      "name": "GNU Lesser General Public License (LGPL) version 2.1",
+      "tags": [
+        "gpl-2-compatible",
+        "gpl-3-compatible",
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#LGPLv2.1",
+        "https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html"
+      ]
+    },
+    "LGPLv3": {
+      "id": "LGPLv3",
+      "identifiers": {
+        "spdx": [
+          "LGPL-3.0-or-later",
+          "LGPL-3.0-only",
+          "LGPL-3.0",
+          "LGPL-3.0+"
+        ]
+      },
+      "name": "GNU Lesser General Public License (LGPL) version 3",
+      "tags": [
+        "gpl-3-compatible",
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#LGPLv3",
+        "https://www.gnu.org/licenses/lgpl.html"
+      ]
+    },
+    "LPPL-1.2": {
+      "id": "LPPL-1.2",
+      "identifiers": {
+        "spdx": [
+          "LPPL-1.2"
+        ]
+      },
+      "name": "LaTeX Project Public License 1.2",
+      "tags": [
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#LPPL-1.2",
+        "https://directory.fsf.org/wiki/License:LPPLv1.2"
+      ]
+    },
+    "LPPL-1.3a": {
+      "id": "LPPL-1.3a",
+      "identifiers": {
+        "spdx": [
+          "LPPL-1.3a"
+        ]
+      },
+      "name": "LaTeX Project Public License 1.3a",
+      "tags": [
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#LPPL-1.3a",
+        "https://directory.fsf.org/wiki/License:LPPLv1.3a"
+      ]
+    },
+    "Lha": {
+      "id": "Lha",
+      "name": "License of Lha",
+      "tags": [
+        "non-free"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#Lha",
+        "https://directory.fsf.org/wiki/License:Lha"
+      ]
+    },
+    "MPL": {
+      "id": "MPL",
+      "identifiers": {
+        "spdx": [
+          "MPL-1.1"
+        ]
+      },
+      "name": "Mozilla Public License (MPL) version 1.1",
+      "tags": [
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#MPL",
+        "https://directory.fsf.org/wiki/License:MPLv1.1"
+      ]
+    },
+    "MPL-2.0": {
+      "id": "MPL-2.0",
+      "identifiers": {
+        "spdx": [
+          "MPL-2.0"
+        ]
+      },
+      "name": "Mozilla Public\n       License (MPL) version 2.0",
+      "tags": [
+        "gpl-2-compatible",
+        "gpl-3-compatible",
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#MPL-2.0",
+        "https://directory.fsf.org/wiki/License:MPLv2.0"
+      ]
+    },
+    "ModifiedBSD": {
+      "id": "ModifiedBSD",
+      "identifiers": {
+        "spdx": [
+          "BSD-3-Clause"
+        ]
+      },
+      "name": "Modified BSD license",
+      "tags": [
+        "gpl-2-compatible",
+        "gpl-3-compatible",
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#ModifiedBSD",
+        "https://directory.fsf.org/wiki/License:BSD_3Clause"
+      ]
+    },
+    "Ms-SS": {
+      "id": "Ms-SS",
+      "name": "Microsoft's Shared Source CLI, C#, and Jscript License",
+      "tags": [
+        "non-free"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#Ms-SS",
+        "https://directory.fsf.org/wiki/License:Ms-SS"
+      ]
+    },
+    "NASA": {
+      "id": "NASA",
+      "identifiers": {
+        "spdx": [
+          "NASA-1.3"
+        ]
+      },
+      "name": "NASA Open Source Agreement",
+      "tags": [
+        "non-free"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#NASA",
+        "https://directory.fsf.org/wiki/License:NASA-OSA_v1.3"
+      ]
+    },
+    "NCSA": {
+      "id": "NCSA",
+      "identifiers": {
+        "spdx": [
+          "NCSA"
+        ]
+      },
+      "name": "NCSA/University of Illinois Open Source License",
+      "tags": [
+        "gpl-2-compatible",
+        "gpl-3-compatible",
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#NCSA",
+        "https://directory.fsf.org/wiki/License:IllinoisNCSA"
+      ]
+    },
+    "NOSL": {
+      "id": "NOSL",
+      "identifiers": {
+        "spdx": [
+          "NOSL"
+        ]
+      },
+      "name": "Netizen Open Source License (NOSL), Version 1.0",
+      "tags": [
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#NOSL",
+        "https://directory.fsf.org/wiki/License:NOSLv1.0"
+      ]
+    },
+    "NPL-1.0": {
+      "id": "NPL-1.0",
+      "identifiers": {
+        "spdx": [
+          "NPL-1.0"
+        ]
+      },
+      "name": "Netscape Public License (NPL)",
+      "tags": [
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#NPL",
+        "https://directory.fsf.org/wiki?title=License:NPLv1.1"
+      ]
+    },
+    "NPL-1.1": {
+      "id": "NPL-1.1",
+      "identifiers": {
+        "spdx": [
+          "NPL-1.1"
+        ]
+      },
+      "name": "Netscape Public License (NPL)",
+      "tags": [
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#NPL",
+        "https://directory.fsf.org/wiki?title=License:NPLv1.1"
+      ]
+    },
+    "NoLicense": {
+      "id": "NoLicense",
+      "identifiers": {
+        "spdx": [
+          "NONE"
+        ]
+      },
+      "name": "No license",
+      "tags": [
+        "non-free"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#NoLicense"
+      ]
+    },
+    "Nokia": {
+      "id": "Nokia",
+      "identifiers": {
+        "spdx": [
+          "Nokia"
+        ]
+      },
+      "name": "Nokia Open Source License",
+      "tags": [
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#Nokia",
+        "https://directory.fsf.org/wiki/License:NokOSv1.0a"
+      ]
+    },
+    "ODbl": {
+      "id": "ODbl",
+      "identifiers": {
+        "spdx": [
+          "ODbL-1.0"
+        ]
+      },
+      "name": "Open Database license",
+      "tags": [
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#ODbl",
+        "https://directory.fsf.org/wiki/License:ODbl"
+      ]
+    },
+    "OSL-1.0": {
+      "id": "OSL-1.0",
+      "identifiers": {
+        "spdx": [
+          "OSL-1.0"
+        ]
+      },
+      "name": "Open Software License, all versions through 3.0",
+      "tags": [
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#OSL",
+        "https://directory.fsf.org/wiki/License:OSLv3.0"
+      ]
+    },
+    "OSL-1.1": {
+      "id": "OSL-1.1",
+      "identifiers": {
+        "spdx": [
+          "OSL-1.1"
+        ]
+      },
+      "name": "Open Software License, all versions through 3.0",
+      "tags": [
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#OSL",
+        "https://directory.fsf.org/wiki/License:OSLv3.0"
+      ]
+    },
+    "OSL-2.0": {
+      "id": "OSL-2.0",
+      "identifiers": {
+        "spdx": [
+          "OSL-2.0"
+        ]
+      },
+      "name": "Open Software License, all versions through 3.0",
+      "tags": [
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#OSL",
+        "https://directory.fsf.org/wiki/License:OSLv3.0"
+      ]
+    },
+    "OSL-2.1": {
+      "id": "OSL-2.1",
+      "identifiers": {
+        "spdx": [
+          "OSL-2.1"
+        ]
+      },
+      "name": "Open Software License, all versions through 3.0",
+      "tags": [
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#OSL",
+        "https://directory.fsf.org/wiki/License:OSLv3.0"
+      ]
+    },
+    "OSL-3.0": {
+      "id": "OSL-3.0",
+      "identifiers": {
+        "spdx": [
+          "OSL-3.0"
+        ]
+      },
+      "name": "Open Software License, all versions through 3.0",
+      "tags": [
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#OSL",
+        "https://directory.fsf.org/wiki/License:OSLv3.0"
+      ]
+    },
+    "OculusRiftSDK": {
+      "id": "OculusRiftSDK",
+      "name": "Oculus Rift SDK License",
+      "tags": [
+        "non-free"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#OculusRiftSDK",
+        "https://directory.fsf.org/wiki/License:Oculus_VR_Rift_SDK_License"
+      ]
+    },
+    "OpenContentL": {
+      "id": "OpenContentL",
+      "name": "Open Content License, Version 1.0",
+      "tags": [
+        "non-free"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#OpenContentL",
+        "https://web.archive.org/web/19981206111937/http://www.opencontent.org/opl.shtml"
+      ]
+    },
+    "OpenPublicL": {
+      "id": "OpenPublicL",
+      "identifiers": {
+        "spdx": [
+          "OPL-1.0"
+        ]
+      },
+      "name": "Open Public License",
+      "tags": [
+        "non-free"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#OpenPublicL",
+        "https://directory.fsf.org/wiki/License:OpenPLv1.0"
+      ]
+    },
+    "OpenPublicationL": {
+      "id": "OpenPublicationL",
+      "identifiers": {
+        "spdx": [
+          "OPUBL-1.0"
+        ]
+      },
+      "name": "Open Publication License, Version 1.0",
+      "tags": [
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#OpenPublicationL",
+        "https://directory.fsf.org/wiki/License:OPL-1.0"
+      ]
+    },
+    "OpenSSL": {
+      "id": "OpenSSL",
+      "identifiers": {
+        "spdx": [
+          "OpenSSL"
+        ]
+      },
+      "name": "OpenSSL license",
+      "tags": [
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#OpenSSL",
+        "https://directory.fsf.org/wiki/License:OpenSSL"
+      ]
+    },
+    "OriginalBSD": {
+      "id": "OriginalBSD",
+      "identifiers": {
+        "spdx": [
+          "BSD-4-Clause"
+        ]
+      },
+      "name": "Original BSD license",
+      "tags": [
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#OriginalBSD",
+        "https://directory.fsf.org/wiki/License:BSD_4Clause"
+      ]
+    },
+    "PHP-3.01": {
+      "id": "PHP-3.01",
+      "identifiers": {
+        "spdx": [
+          "PHP-3.01"
+        ]
+      },
+      "name": "PHP License, Version 3.01",
+      "tags": [
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#PHP-3.01",
+        "https://directory.fsf.org/wiki/License:PHPv3.01"
+      ]
+    },
+    "PINE": {
+      "id": "PINE",
+      "name": "License of PINE",
+      "tags": [
+        "non-free"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#PINE",
+        "https://directory.fsf.org/wiki/License:PINE"
+      ]
+    },
+    "PPL": {
+      "id": "PPL",
+      "name": "Peer-Production License",
+      "tags": [
+        "non-free"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#PPL",
+        "https://directory.fsf.org/wiki/License:PPL"
+      ]
+    },
+    "PPL3a": {
+      "id": "PPL3a",
+      "name": "Personal Public License Version 3a",
+      "tags": [
+        "non-free"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#PPL3a",
+        "https://directory.fsf.org/wiki/License:PPL3a"
+      ]
+    },
+    "PerlLicense": {
+      "id": "PerlLicense",
+      "name": "License of Perl 5 and below",
+      "tags": [
+        "gpl-2-compatible",
+        "gpl-3-compatible",
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#PerlLicense"
+      ]
+    },
+    "Phorum": {
+      "id": "Phorum",
+      "name": "Phorum License, Version 2.0",
+      "tags": [
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#Phorum",
+        "https://directory.fsf.org/wiki/License:Phorum2.0"
+      ]
+    },
+    "Plan9": {
+      "id": "Plan9",
+      "name": "Old Plan 9 license",
+      "tags": [
+        "non-free"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#Plan9",
+        "https://directory.fsf.org/wiki/License:Old-plan9"
+      ]
+    },
+    "PublicDomain": {
+      "id": "PublicDomain",
+      "name": "Public Domain",
+      "tags": [
+        "gpl-2-compatible",
+        "gpl-3-compatible",
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#PublicDomain",
+        "https://directory.fsf.org/wiki/License:PublicDomain"
+      ]
+    },
+    "Python": {
+      "id": "Python",
+      "name": "License of Python 2.0.1, 2.1.1, and newer versions",
+      "tags": [
+        "gpl-2-compatible",
+        "gpl-3-compatible",
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#Python",
+        "https://directory.fsf.org/wiki?title=License:Python2.0.1"
+      ]
+    },
+    "Python1.6a2": {
+      "id": "Python1.6a2",
+      "name": "License of Python 1.6a2 and earlier versions",
+      "tags": [
+        "gpl-2-compatible",
+        "gpl-3-compatible",
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#Python1.6a2",
+        "https://directory.fsf.org/wiki?title=License:Python1.6a2"
+      ]
+    },
+    "Python1.6b1": {
+      "id": "Python1.6b1",
+      "name": "License of Python 1.6b1 through 2.0 and 2.1",
+      "tags": [
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#PythonOld",
+        "https://directory.fsf.org/wiki/License:Python1.6b1"
+      ]
+    },
+    "Python2.0": {
+      "id": "Python2.0",
+      "identifiers": {
+        "spdx": [
+          "Python-2.0"
+        ]
+      },
+      "name": "License of Python 1.6b1 through 2.0 and 2.1",
+      "tags": [
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#PythonOld",
+        "https://directory.fsf.org/wiki/License:Python1.6b1"
+      ]
+    },
+    "Python2.1": {
+      "id": "Python2.1",
+      "name": "License of Python 1.6b1 through 2.0 and 2.1",
+      "tags": [
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#PythonOld",
+        "https://directory.fsf.org/wiki/License:Python1.6b1"
+      ]
+    },
+    "QPL": {
+      "id": "QPL",
+      "identifiers": {
+        "spdx": [
+          "QPL-1.0"
+        ]
+      },
+      "name": "Q Public License (QPL), Version 1.0",
+      "tags": [
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#QPL",
+        "https://directory.fsf.org/wiki/License:QPLv1.0"
+      ]
+    },
+    "RPL": {
+      "id": "RPL",
+      "identifiers": {
+        "spdx": [
+          "RPL-1.1",
+          " RPL-1.5"
+        ]
+      },
+      "name": "Reciprocal Public License",
+      "tags": [
+        "non-free"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#RPL",
+        "https://directory.fsf.org/wiki/License:ReciprocalPLv1.3"
+      ]
+    },
+    "RPSL": {
+      "id": "RPSL",
+      "identifiers": {
+        "spdx": [
+          "RPSL-1.0"
+        ]
+      },
+      "name": "RealNetworks Public Source License (RPSL), Version 1.0",
+      "tags": [
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#RPSL",
+        "https://directory.fsf.org/wiki/License:RPSLv1.0"
+      ]
+    },
+    "Ruby": {
+      "id": "Ruby",
+      "identifiers": {
+        "spdx": [
+          "Ruby"
+        ]
+      },
+      "name": "License of Ruby",
+      "tags": [
+        "gpl-2-compatible",
+        "gpl-3-compatible",
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#Ruby",
+        "https://directory.fsf.org/wiki/License:Ruby"
+      ]
+    },
+    "SGIFreeB": {
+      "id": "SGIFreeB",
+      "identifiers": {
+        "spdx": [
+          "SGI-B-2.0"
+        ]
+      },
+      "name": "SGI Free Software License B, version 2.0",
+      "tags": [
+        "gpl-2-compatible",
+        "gpl-3-compatible",
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#SGIFreeB",
+        "https://directory.fsf.org/wiki/License:SGIFreeBv2"
+      ]
+    },
+    "SILOFL-1.0": {
+      "id": "SILOFL-1.0",
+      "identifiers": {
+        "spdx": [
+          "OFL-1.0"
+        ]
+      },
+      "name": "SIL Open Font License 1.1",
+      "tags": [
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#SILOFL",
+        "https://directory.fsf.org/wiki/SIL_Open_Font_License_1.1"
+      ]
+    },
+    "SILOFL-1.1": {
+      "id": "SILOFL-1.1",
+      "identifiers": {
+        "spdx": [
+          "OFL-1.1"
+        ]
+      },
+      "name": "SIL Open Font License 1.1",
+      "tags": [
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#SILOFL",
+        "https://directory.fsf.org/wiki/SIL_Open_Font_License_1.1"
+      ]
+    },
+    "SISSL": {
+      "id": "SISSL",
+      "identifiers": {
+        "spdx": [
+          "SISSL"
+        ]
+      },
+      "name": "Sun Industry Standards Source License 1.1",
+      "tags": [
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#SISSL",
+        "https://directory.fsf.org/wiki/License:SISSL-1.1"
+      ]
+    },
+    "SML": {
+      "id": "SML",
+      "name": "Simple Machines License",
+      "tags": [
+        "non-free"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#SML",
+        "https://directory.fsf.org/wiki/License:SimpleM"
+      ]
+    },
+    "SPL": {
+      "id": "SPL",
+      "identifiers": {
+        "spdx": [
+          "SPL-1.0"
+        ]
+      },
+      "name": "Sun Public License",
+      "tags": [
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#SPL",
+        "https://directory.fsf.org/wiki/License:SPLv1.0"
+      ]
+    },
+    "Scilab": {
+      "id": "Scilab",
+      "name": "Scilab license",
+      "tags": [
+        "non-free"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#Scilab",
+        "https://directory.fsf.org/wiki/License:Scilab-old"
+      ]
+    },
+    "Scratch": {
+      "id": "Scratch",
+      "name": "Scratch 1.4 license",
+      "tags": [
+        "non-free"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#Scratch",
+        "https://directory.fsf.org/wiki/License:Scratch"
+      ]
+    },
+    "Squeak": {
+      "id": "Squeak",
+      "name": "Old Squeak license",
+      "tags": [
+        "non-free"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#Squeak",
+        "https://directory.fsf.org/wiki/License:Squeak-old"
+      ]
+    },
+    "StandardMLofNJ": {
+      "id": "StandardMLofNJ",
+      "identifiers": {
+        "spdx": [
+          "SMLNJ",
+          "StandardML-NJ"
+        ]
+      },
+      "name": "Standard ML of New Jersey Copyright License",
+      "tags": [
+        "gpl-2-compatible",
+        "gpl-3-compatible",
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#StandardMLofNJ",
+        "https://directory.fsf.org/wiki/License:StandardMLofNJ"
+      ]
+    },
+    "SunCommunitySourceLicense": {
+      "id": "SunCommunitySourceLicense",
+      "name": "Sun Community Source License",
+      "tags": [
+        "non-free"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#SunCommunitySourceLicense",
+        "https://directory.fsf.org/wiki/License:SunCSLv2.8"
+      ]
+    },
+    "SunSolarisSourceCode": {
+      "id": "SunSolarisSourceCode",
+      "name": "Sun Solaris Source Code (Foundation Release) License, Version 1.1",
+      "tags": [
+        "non-free"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#SunSolarisSourceCode",
+        "https://directory.fsf.org/wiki/License:SSSCFR-1.1"
+      ]
+    },
+    "SystemC-3.0": {
+      "id": "SystemC-3.0",
+      "name": "SystemC \u201cOpen Source\u201d License, Version 3.0",
+      "tags": [
+        "non-free"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#SystemC-3.0",
+        "https://directory.fsf.org/wiki/License:SCOSL-3.0"
+      ]
+    },
+    "Truecrypt-3.0": {
+      "id": "Truecrypt-3.0",
+      "name": "Truecrypt license 3.0",
+      "tags": [
+        "non-free"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#Truecrypt-3.0",
+        "https://directory.fsf.org/wiki/License:TrueCrypt"
+      ]
+    },
+    "UPL": {
+      "id": "UPL",
+      "identifiers": {
+        "spdx": [
+          "UPL-1.0"
+        ]
+      },
+      "name": "Universal Permissive License (UPL)",
+      "tags": [
+        "gpl-2-compatible",
+        "gpl-3-compatible",
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#UPL",
+        "https://directory.fsf.org/wiki/License:Universal_Permissive_License"
+      ]
+    },
+    "Unicode": {
+      "id": "Unicode",
+      "name": "Unicode, Inc. License Agreement for Data Files and Software",
+      "tags": [
+        "gpl-2-compatible",
+        "gpl-3-compatible",
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#Unicode",
+        "https://directory.fsf.org/wiki/License:Unicode"
+      ]
+    },
+    "Unlicense": {
+      "id": "Unlicense",
+      "identifiers": {
+        "spdx": [
+          "Unlicense"
+        ]
+      },
+      "name": "The Unlicense",
+      "tags": [
+        "gpl-2-compatible",
+        "gpl-3-compatible",
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#Unlicense",
+        "https://directory.fsf.org/wiki/License:TheUnlicense"
+      ]
+    },
+    "UtahPublicLicense": {
+      "id": "UtahPublicLicense",
+      "name": "University of Utah Research Foundation Public License",
+      "tags": [
+        "non-free"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#UtahPublicLicense",
+        "https://directory.fsf.org/wiki/License:UnivUtahRFPL"
+      ]
+    },
+    "Vim": {
+      "id": "Vim",
+      "identifiers": {
+        "spdx": [
+          "Vim"
+        ]
+      },
+      "name": "License of Vim, Version 6.1 or later",
+      "tags": [
+        "gpl-2-compatible",
+        "gpl-3-compatible",
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#Vim",
+        "https://directory.fsf.org/wiki/License:Vim7.2"
+      ]
+    },
+    "W3C": {
+      "id": "W3C",
+      "identifiers": {
+        "spdx": [
+          "W3C"
+        ]
+      },
+      "name": "W3C Software Notice and License",
+      "tags": [
+        "gpl-2-compatible",
+        "gpl-3-compatible",
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#W3C",
+        "https://directory.fsf.org/wiki/License:W3C_31Dec2002"
+      ]
+    },
+    "WTFPL": {
+      "id": "WTFPL",
+      "identifiers": {
+        "spdx": [
+          "WTFPL"
+        ]
+      },
+      "name": "WTFPL, Version 2",
+      "tags": [
+        "gpl-2-compatible",
+        "gpl-3-compatible",
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#WTFPL",
+        "https://directory.fsf.org/wiki/License:WTFPL-2"
+      ]
+    },
+    "Watcom": {
+      "id": "Watcom",
+      "identifiers": {
+        "spdx": [
+          "Watcom-1.0"
+        ]
+      },
+      "name": "Sybase Open Watcom Public License version 1.0",
+      "tags": [
+        "non-free"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#Watcom",
+        "https://directory.fsf.org/wiki/License:Watcom-1.0"
+      ]
+    },
+    "WebM": {
+      "id": "WebM",
+      "name": "License of WebM",
+      "tags": [
+        "gpl-2-compatible",
+        "gpl-3-compatible",
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#WebM",
+        "https://directory.fsf.org/wiki/License:WebM"
+      ]
+    },
+    "X11License": {
+      "id": "X11License",
+      "identifiers": {
+        "spdx": [
+          "X11"
+        ]
+      },
+      "name": "X11 License",
+      "tags": [
+        "gpl-2-compatible",
+        "gpl-3-compatible",
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#X11License",
+        "https://directory.fsf.org/wiki/License:X11"
+      ]
+    },
+    "XFree861.1License": {
+      "id": "XFree861.1License",
+      "identifiers": {
+        "spdx": [
+          "XFree86-1.1"
+        ]
+      },
+      "name": "XFree86 1.1 License",
+      "tags": [
+        "gpl-2-compatible",
+        "gpl-3-compatible",
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#XFree861.1License",
+        "https://directory.fsf.org/wiki/License:XFree86_1.1"
+      ]
+    },
+    "YaST": {
+      "id": "YaST",
+      "name": "YaST License",
+      "tags": [
+        "non-free"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#YaST",
+        "https://directory.fsf.org/wiki/License:YaST-license"
+      ]
+    },
+    "Yahoo": {
+      "id": "Yahoo",
+      "identifiers": {
+        "spdx": [
+          "YPL-1.1"
+        ]
+      },
+      "name": "Yahoo! Public License 1.1",
+      "tags": [
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#Yahoo",
+        "https://directory.fsf.org/wiki/License:YPLv1.1"
+      ]
+    },
+    "ZLib": {
+      "id": "ZLib",
+      "identifiers": {
+        "spdx": [
+          "Zlib",
+          "Nunit"
+        ]
+      },
+      "name": "License of ZLib",
+      "tags": [
+        "gpl-2-compatible",
+        "gpl-3-compatible",
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#ZLib",
+        "https://directory.fsf.org/wiki/License:Zlib"
+      ]
+    },
+    "Zend": {
+      "id": "Zend",
+      "identifiers": {
+        "spdx": [
+          "Zend-2.0"
+        ]
+      },
+      "name": "Zend License, Version 2.0",
+      "tags": [
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#Zend",
+        "https://directory.fsf.org/wiki/License:ZELv2.0"
+      ]
+    },
+    "Zimbra": {
+      "id": "Zimbra",
+      "identifiers": {
+        "spdx": [
+          "Zimbra-1.3"
+        ]
+      },
+      "name": "Zimbra Public License 1.3",
+      "tags": [
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#Zimbra",
+        "https://directory.fsf.org/wiki/License:ZPL-1.3"
+      ]
+    },
+    "Zope": {
+      "id": "Zope",
+      "identifiers": {
+        "spdx": [
+          "ZPL-1.0"
+        ]
+      },
+      "name": "Zope Public License version 1",
+      "tags": [
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#Zope",
+        "https://directory.fsf.org/wiki/License:ZPL-1.0"
+      ]
+    },
+    "Zope2.0": {
+      "id": "Zope2.0",
+      "identifiers": {
+        "spdx": [
+          "ZPL-2.0"
+        ]
+      },
+      "name": "Zope Public License, versions 2.0 and 2.1",
+      "tags": [
+        "gpl-2-compatible",
+        "gpl-3-compatible",
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#Zope2.0",
+        "https://directory.fsf.org/wiki?title=License:ZopePLv2.1"
+      ]
+    },
+    "Zope2.1": {
+      "id": "Zope2.1",
+      "identifiers": {
+        "spdx": [
+          "ZPL-2.1"
+        ]
+      },
+      "name": "Zope Public License, versions 2.0 and 2.1",
+      "tags": [
+        "gpl-2-compatible",
+        "gpl-3-compatible",
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#Zope2.0",
+        "https://directory.fsf.org/wiki?title=License:ZopePLv2.1"
+      ]
+    },
+    "anticapitalist": {
+      "id": "anticapitalist",
+      "name": "Anti-Capitalist Software License",
+      "tags": [
+        "non-free"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#anticapitalist",
+        "https://directory.fsf.org/wiki/License:ANTI-1.4"
+      ]
+    },
+    "apache1": {
+      "id": "apache1",
+      "identifiers": {
+        "spdx": [
+          "Apache-1.0"
+        ]
+      },
+      "name": "Apache License, Version 1.0",
+      "tags": [
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#apache1",
+        "https://directory.fsf.org/wiki/License:Apache1.0"
+      ]
+    },
+    "apache1.1": {
+      "id": "apache1.1",
+      "identifiers": {
+        "spdx": [
+          "Apache-1.1"
+        ]
+      },
+      "name": "Apache License, Version 1.1",
+      "tags": [
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#apache1.1",
+        "https://directory.fsf.org/wiki/License:Apache1.1"
+      ]
+    },
+    "apache2": {
+      "id": "apache2",
+      "identifiers": {
+        "spdx": [
+          "Apache-2.0"
+        ]
+      },
+      "name": "Apache License, Version 2.0",
+      "tags": [
+        "gpl-3-compatible",
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#apache2",
+        "https://directory.fsf.org/wiki/License:Apache2.0"
+      ]
+    },
+    "apsl1": {
+      "id": "apsl1",
+      "identifiers": {
+        "spdx": [
+          "APSL-1.0"
+        ]
+      },
+      "name": "Apple Public Source License (APSL), version 1.x",
+      "tags": [
+        "non-free"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#apsl1",
+        "https://directory.fsf.org/wiki/License:APSLv1.x"
+      ]
+    },
+    "apsl2": {
+      "id": "apsl2",
+      "identifiers": {
+        "spdx": [
+          "APSL-2.0"
+        ]
+      },
+      "name": "Apple Public Source License (APSL), version 2",
+      "tags": [
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#apsl2",
+        "https://directory.fsf.org/wiki/License:APSLv2.0"
+      ]
+    },
+    "bittorrent": {
+      "id": "bittorrent",
+      "identifiers": {
+        "spdx": [
+          "BitTorrent-1.1"
+        ]
+      },
+      "name": "BitTorrent Open Source License",
+      "tags": [
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#bittorrent",
+        "https://directory.fsf.org/wiki/License:BitTorrentOSL1.1"
+      ]
+    },
+    "boost": {
+      "id": "boost",
+      "identifiers": {
+        "spdx": [
+          "BSL-1.0"
+        ]
+      },
+      "name": "Boost Software License",
+      "tags": [
+        "gpl-2-compatible",
+        "gpl-3-compatible",
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#boost",
+        "https://directory.fsf.org/wiki/License:Boost1.0"
+      ]
+    },
+    "ccby": {
+      "id": "ccby",
+      "identifiers": {
+        "spdx": [
+          "CC-BY-4.0"
+        ]
+      },
+      "name": "Creative Commons Attribution 4.0 license",
+      "tags": [
+        "gpl-2-compatible",
+        "gpl-3-compatible",
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#ccby",
+        "http://creativecommons.org/licenses/by/4.0/legalcode"
+      ]
+    },
+    "ccbysa": {
+      "id": "ccbysa",
+      "identifiers": {
+        "spdx": [
+          "CC-BY-SA-4.0"
+        ]
+      },
+      "name": "Creative Commons Attribution-Sharealike 4.0 license",
+      "tags": [
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#ccbysa",
+        "http://creativecommons.org/licenses/by-sa/4.0/legalcode"
+      ]
+    },
+    "clearbsd": {
+      "id": "clearbsd",
+      "identifiers": {
+        "spdx": [
+          "BSD-3-Clause-Clear"
+        ]
+      },
+      "name": "The Clear BSD License",
+      "tags": [
+        "gpl-2-compatible",
+        "gpl-3-compatible",
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#clearbsd",
+        "https://directory.fsf.org/wiki/License:ClearBSD"
+      ]
+    },
+    "comclause": {
+      "id": "comclause",
+      "name": "Commons Clause",
+      "tags": [
+        "non-free"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#comclause",
+        "https://directory.fsf.org/wiki/License:Commons-Clause"
+      ]
+    },
+    "cpol": {
+      "id": "cpol",
+      "identifiers": {
+        "spdx": [
+          "CPOL-1.02"
+        ]
+      },
+      "name": "Code Project Open License, version 1.02",
+      "tags": [
+        "non-free"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#cpol",
+        "https://directory.fsf.org/wiki/License:CPOL-1.02"
+      ]
+    },
+    "dsl": {
+      "id": "dsl",
+      "name": "Design Science License (DSL)",
+      "tags": [
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#dsl",
+        "https://www.gnu.org/licenses/dsl.html"
+      ]
+    },
+    "eCos11": {
+      "id": "eCos11",
+      "identifiers": {
+        "spdx": [
+          "RHeCos-1.1"
+        ]
+      },
+      "name": "eCos Public License, version 1.1",
+      "tags": [
+        "non-free"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#eCos11",
+        "https://directory.fsf.org/wiki/License:ECosPLv1.1"
+      ]
+    },
+    "eCos2.0": {
+      "id": "eCos2.0",
+      "identifiers": {
+        "spdx": [
+          "GPL-2.0+ WITH eCos-exception-2.0",
+          "eCos-2.0"
+        ]
+      },
+      "name": "eCos license version 2.0",
+      "tags": [
+        "gpl-2-compatible",
+        "gpl-3-compatible",
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#eCos2.0",
+        "https://directory.fsf.org/wiki/License:ECos2.0"
+      ]
+    },
+    "ecfonts": {
+      "id": "ecfonts",
+      "name": "License\n       of the ec fonts for LaTeX",
+      "tags": [
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#ecfonts",
+        "https://directory.fsf.org/wiki/License:LaTeX_ecfonts"
+      ]
+    },
+    "fdk": {
+      "id": "fdk",
+      "name": "Fraunhofer FDK AAC license",
+      "tags": [
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#fdk",
+        "https://directory.fsf.org/wiki/License:fdk"
+      ]
+    },
+    "freetype": {
+      "id": "freetype",
+      "identifiers": {
+        "spdx": [
+          "FTL"
+        ]
+      },
+      "name": "Freetype Project License",
+      "tags": [
+        "gpl-3-compatible",
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#freetype",
+        "https://directory.fsf.org/wiki/License:FreeType"
+      ]
+    },
+    "gnuplot": {
+      "id": "gnuplot",
+      "identifiers": {
+        "spdx": [
+          "gnuplot"
+        ]
+      },
+      "name": "Gnuplot license",
+      "tags": [
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#gnuplot",
+        "https://directory.fsf.org/wiki/License:Gnuplot"
+      ]
+    },
+    "hippocratic": {
+      "id": "hippocratic",
+      "name": "The Hippocratic License 1.1",
+      "tags": [
+        "non-free"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#hippocratic",
+        "https://directory.fsf.org/wiki/License:THL-1.1"
+      ]
+    },
+    "iMatix": {
+      "id": "iMatix",
+      "identifiers": {
+        "spdx": [
+          "iMatix"
+        ]
+      },
+      "name": "License of the iMatix Standard Function Library",
+      "tags": [
+        "gpl-2-compatible",
+        "gpl-3-compatible",
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#iMatix",
+        "https://directory.fsf.org/wiki?title=License:SFL"
+      ]
+    },
+    "ijg": {
+      "id": "ijg",
+      "identifiers": {
+        "spdx": [
+          "IJG"
+        ]
+      },
+      "name": "Independent JPEG Group License",
+      "tags": [
+        "gpl-2-compatible",
+        "gpl-3-compatible",
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#ijg",
+        "https://directory.fsf.org/wiki?title=License:JPEG"
+      ]
+    },
+    "imlib": {
+      "id": "imlib",
+      "identifiers": {
+        "spdx": [
+          "Imlib2"
+        ]
+      },
+      "name": "License of imlib2",
+      "tags": [
+        "gpl-2-compatible",
+        "gpl-3-compatible",
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#imlib",
+        "https://directory.fsf.org/wiki/License:Imlib2"
+      ]
+    },
+    "informal": {
+      "id": "informal",
+      "name": "Informal license",
+      "tags": [
+        "gpl-2-compatible",
+        "gpl-3-compatible",
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#informal"
+      ]
+    },
+    "intel": {
+      "id": "intel",
+      "identifiers": {
+        "spdx": [
+          "Intel"
+        ]
+      },
+      "name": "Intel Open Source License",
+      "tags": [
+        "gpl-2-compatible",
+        "gpl-3-compatible",
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#intel",
+        "https://directory.fsf.org/wiki/License:IntelACPI"
+      ]
+    },
+    "josl": {
+      "id": "josl",
+      "name": "Jabber Open Source License, Version 1.0",
+      "tags": [
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#josl",
+        "https://directory.fsf.org/wiki/License:JabberOSLv1.0"
+      ]
+    },
+    "ksh93": {
+      "id": "ksh93",
+      "name": "Old license of ksh93",
+      "tags": [
+        "non-free"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#ksh93",
+        "https://directory.fsf.org/wiki/License:Old_ksh93"
+      ]
+    },
+    "lucent102": {
+      "id": "lucent102",
+      "identifiers": {
+        "spdx": [
+          "LPL-1.02"
+        ]
+      },
+      "name": "Lucent Public License Version 1.02 (Plan 9 license)",
+      "tags": [
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#lucent102",
+        "https://directory.fsf.org/wiki/License:LucentPLv1.02"
+      ]
+    },
+    "ms-pl": {
+      "id": "ms-pl",
+      "identifiers": {
+        "spdx": [
+          "MS-PL"
+        ]
+      },
+      "name": "Microsoft Public License (Ms-PL)",
+      "tags": [
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#ms-pl",
+        "https://directory.fsf.org/wiki/License:MsPL"
+      ]
+    },
+    "ms-rl": {
+      "id": "ms-rl",
+      "identifiers": {
+        "spdx": [
+          "MS-RL"
+        ]
+      },
+      "name": "Microsoft Reciprocal License (Ms-RL)",
+      "tags": [
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#ms-rl",
+        "https://directory.fsf.org/wiki/License:MsRL"
+      ]
+    },
+    "newOpenLDAP": {
+      "id": "newOpenLDAP",
+      "identifiers": {
+        "spdx": [
+          "OLDAP-2.7"
+        ]
+      },
+      "name": "OpenLDAP License, Version 2.7",
+      "tags": [
+        "gpl-2-compatible",
+        "gpl-3-compatible",
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#newOpenLDAP",
+        "https://directory.fsf.org/wiki/License:OpenLDAPv2.7"
+      ]
+    },
+    "oldOpenLDAP": {
+      "id": "oldOpenLDAP",
+      "identifiers": {
+        "spdx": [
+          "OLDAP-2.3"
+        ]
+      },
+      "name": "Old OpenLDAP License, Version 2.3",
+      "tags": [
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#oldOpenLDAP",
+        "https://directory.fsf.org/wiki/License:OpenLDAPv2.3"
+      ]
+    },
+    "xinetd": {
+      "id": "xinetd",
+      "identifiers": {
+        "spdx": [
+          "xinetd"
+        ]
+      },
+      "name": "License of xinetd",
+      "tags": [
+        "libre"
+      ],
+      "uris": [
+        "https://www.gnu.org/licenses/license-list.html#xinetd",
+        "https://directory.fsf.org/wiki/License:Xinetd"
+      ]
+    }
+  }
+}

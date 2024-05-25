@@ -1,0 +1,17 @@
+{
+  "@context": "https://spdx.github.io/fsf-api/schema/license.jsonld",
+  "id": "CPAL",
+  "identifiers": {
+    "spdx": [
+      "CPAL-1.0"
+    ]
+  },
+  "name": "Common Public Attribution License 1.0 (CPAL)",
+  "tags": [
+    "libre"
+  ],
+  "uris": [
+    "https://www.gnu.org/licenses/license-list.html#CPAL",
+    "https://directory.fsf.org/wiki/License:Common_Public_Attribution_License_Version_1.0"
+  ]
+}

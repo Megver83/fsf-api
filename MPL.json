@@ -1,0 +1,17 @@
+{
+  "@context": "https://spdx.github.io/fsf-api/schema/license.jsonld",
+  "id": "MPL",
+  "identifiers": {
+    "spdx": [
+      "MPL-1.1"
+    ]
+  },
+  "name": "Mozilla Public License (MPL) version 1.1",
+  "tags": [
+    "libre"
+  ],
+  "uris": [
+    "https://www.gnu.org/licenses/license-list.html#MPL",
+    "https://directory.fsf.org/wiki/License:MPLv1.1"
+  ]
+}

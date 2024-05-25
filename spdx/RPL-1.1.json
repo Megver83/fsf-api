@@ -1,0 +1,18 @@
+{
+  "@context": "https://spdx.github.io/fsf-api/schema/license.jsonld",
+  "id": "RPL",
+  "identifiers": {
+    "spdx": [
+      "RPL-1.1",
+      " RPL-1.5"
+    ]
+  },
+  "name": "Reciprocal Public License",
+  "tags": [
+    "non-free"
+  ],
+  "uris": [
+    "https://www.gnu.org/licenses/license-list.html#RPL",
+    "https://directory.fsf.org/wiki/License:ReciprocalPLv1.3"
+  ]
+}

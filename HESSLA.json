@@ -1,0 +1,12 @@
+{
+  "@context": "https://spdx.github.io/fsf-api/schema/license.jsonld",
+  "id": "HESSLA",
+  "name": "Hacktivismo Enhanced-Source Software License Agreement",
+  "tags": [
+    "non-free"
+  ],
+  "uris": [
+    "https://www.gnu.org/licenses/license-list.html#HESSLA",
+    "https://directory.fsf.org/wiki/License:HESSLA"
+  ]
+}

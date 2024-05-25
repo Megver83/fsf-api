@@ -1,0 +1,17 @@
+{
+  "@context": "https://spdx.github.io/fsf-api/schema/license.jsonld",
+  "id": "OpenSSL",
+  "identifiers": {
+    "spdx": [
+      "OpenSSL"
+    ]
+  },
+  "name": "OpenSSL license",
+  "tags": [
+    "libre"
+  ],
+  "uris": [
+    "https://www.gnu.org/licenses/license-list.html#OpenSSL",
+    "https://directory.fsf.org/wiki/License:OpenSSL"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "@context": "https://spdx.github.io/fsf-api/schema/license.jsonld",
+  "id": "UtahPublicLicense",
+  "name": "University of Utah Research Foundation Public License",
+  "tags": [
+    "non-free"
+  ],
+  "uris": [
+    "https://www.gnu.org/licenses/license-list.html#UtahPublicLicense",
+    "https://directory.fsf.org/wiki/License:UnivUtahRFPL"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "@context": "https://spdx.github.io/fsf-api/schema/license.jsonld",
+  "id": "Phorum",
+  "name": "Phorum License, Version 2.0",
+  "tags": [
+    "libre"
+  ],
+  "uris": [
+    "https://www.gnu.org/licenses/license-list.html#Phorum",
+    "https://directory.fsf.org/wiki/License:Phorum2.0"
+  ]
+}

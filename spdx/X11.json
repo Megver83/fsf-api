@@ -1,0 +1,19 @@
+{
+  "@context": "https://spdx.github.io/fsf-api/schema/license.jsonld",
+  "id": "X11License",
+  "identifiers": {
+    "spdx": [
+      "X11"
+    ]
+  },
+  "name": "X11 License",
+  "tags": [
+    "gpl-2-compatible",
+    "gpl-3-compatible",
+    "libre"
+  ],
+  "uris": [
+    "https://www.gnu.org/licenses/license-list.html#X11License",
+    "https://directory.fsf.org/wiki/License:X11"
+  ]
+}

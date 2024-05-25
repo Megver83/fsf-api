@@ -1,0 +1,12 @@
+{
+  "@context": "https://spdx.github.io/fsf-api/schema/license.jsonld",
+  "id": "Squeak",
+  "name": "Old Squeak license",
+  "tags": [
+    "non-free"
+  ],
+  "uris": [
+    "https://www.gnu.org/licenses/license-list.html#Squeak",
+    "https://directory.fsf.org/wiki/License:Squeak-old"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "@context": "https://spdx.github.io/fsf-api/schema/license.jsonld",
+  "id": "XFree861.1License",
+  "identifiers": {
+    "spdx": [
+      "XFree86-1.1"
+    ]
+  },
+  "name": "XFree86 1.1 License",
+  "tags": [
+    "gpl-2-compatible",
+    "gpl-3-compatible",
+    "libre"
+  ],
+  "uris": [
+    "https://www.gnu.org/licenses/license-list.html#XFree861.1License",
+    "https://directory.fsf.org/wiki/License:XFree86_1.1"
+  ]
+}

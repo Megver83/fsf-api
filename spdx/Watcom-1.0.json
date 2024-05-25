@@ -1,0 +1,17 @@
+{
+  "@context": "https://spdx.github.io/fsf-api/schema/license.jsonld",
+  "id": "Watcom",
+  "identifiers": {
+    "spdx": [
+      "Watcom-1.0"
+    ]
+  },
+  "name": "Sybase Open Watcom Public License version 1.0",
+  "tags": [
+    "non-free"
+  ],
+  "uris": [
+    "https://www.gnu.org/licenses/license-list.html#Watcom",
+    "https://directory.fsf.org/wiki/License:Watcom-1.0"
+  ]
+}

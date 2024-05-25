@@ -1,0 +1,19 @@
+{
+  "@context": "https://spdx.github.io/fsf-api/schema/license.jsonld",
+  "id": "ModifiedBSD",
+  "identifiers": {
+    "spdx": [
+      "BSD-3-Clause"
+    ]
+  },
+  "name": "Modified BSD license",
+  "tags": [
+    "gpl-2-compatible",
+    "gpl-3-compatible",
+    "libre"
+  ],
+  "uris": [
+    "https://www.gnu.org/licenses/license-list.html#ModifiedBSD",
+    "https://directory.fsf.org/wiki/License:BSD_3Clause"
+  ]
+}

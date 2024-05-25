@@ -1,0 +1,19 @@
+{
+  "@context": "https://spdx.github.io/fsf-api/schema/license.jsonld",
+  "id": "NCSA",
+  "identifiers": {
+    "spdx": [
+      "NCSA"
+    ]
+  },
+  "name": "NCSA/University of Illinois Open Source License",
+  "tags": [
+    "gpl-2-compatible",
+    "gpl-3-compatible",
+    "libre"
+  ],
+  "uris": [
+    "https://www.gnu.org/licenses/license-list.html#NCSA",
+    "https://directory.fsf.org/wiki/License:IllinoisNCSA"
+  ]
+}

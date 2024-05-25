@@ -1,0 +1,17 @@
+{
+  "@context": "https://spdx.github.io/fsf-api/schema/license.jsonld",
+  "id": "ODbl",
+  "identifiers": {
+    "spdx": [
+      "ODbL-1.0"
+    ]
+  },
+  "name": "Open Database license",
+  "tags": [
+    "libre"
+  ],
+  "uris": [
+    "https://www.gnu.org/licenses/license-list.html#ODbl",
+    "https://directory.fsf.org/wiki/License:ODbl"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "@context": "https://spdx.github.io/fsf-api/schema/license.jsonld",
+  "id": "SILOFL-1.0",
+  "identifiers": {
+    "spdx": [
+      "OFL-1.0"
+    ]
+  },
+  "name": "SIL Open Font License 1.1",
+  "tags": [
+    "libre"
+  ],
+  "uris": [
+    "https://www.gnu.org/licenses/license-list.html#SILOFL",
+    "https://directory.fsf.org/wiki/SIL_Open_Font_License_1.1"
+  ]
+}

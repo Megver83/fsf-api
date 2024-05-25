@@ -1,0 +1,12 @@
+{
+  "@context": "https://spdx.github.io/fsf-api/schema/license.jsonld",
+  "id": "Jahia",
+  "name": "Jahia Community Source License",
+  "tags": [
+    "non-free"
+  ],
+  "uris": [
+    "https://www.gnu.org/licenses/license-list.html#Jahia",
+    "https://directory.fsf.org/wiki/License:JahiaCSL"
+  ]
+}
