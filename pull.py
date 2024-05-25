@@ -230,7 +230,7 @@ IDENTIFIERS = {
     'Zend': {'spdx': ['Zend-2.0']},
     'Zimbra': {'spdx': ['Zimbra-1.3']},
     'ZLib': {'spdx': ['Zlib', 'Nunit']},
-    'Zope1.0': {'spdx': ['ZPL-1.0']},
+    'Zope': {'spdx': ['ZPL-1.0']},
     'Zope2.0': {'spdx': ['ZPL-2.0']},
     'Zope2.1': {'spdx': ['ZPL-2.1']},
 }
